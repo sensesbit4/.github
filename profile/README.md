@@ -9,4 +9,4 @@
 **info@sensesbit.com**
 
 ### Lenguajes y herramientas:
-`php`
+`php`, `javascript`, `R`, `python`, `html5`, `css3`, `astro`, `svelte`, `symfony` 
